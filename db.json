@@ -1,17 +1,19 @@
-[
-    {
-        "Id":"fdjg5454t4tc545ctg",
-        "username":"shikongov02@gmail.com",
-        "password":"Shikongov@99"
-    },
-    {
-        "Id":"fdjg5454t4tc545ctg",
-        "username":"shikongov02@gmail.com",
-        "password":"Shikongov@99"
-    },
-    {
-        "Id":"fdjg5454t4tc545ctg",
-        "username":"shikongov02@gmail.com",
-        "password":"Shikongov@99"
-    }
-]
+{
+    "accounts": [
+        {
+            "Id":1,
+            "username": "shikongov02@gmail.com",
+            "password": "Shikongov@99"
+        },
+        {
+            "Id":2,
+            "username": "shikongov02@gmail.com",
+            "password": "Shikongov@99"
+        },
+        {
+            "Id":3,
+            "username": "shikongov02@gmail.com",
+            "password": "Shikongov@99"
+        }
+    ]
+}
